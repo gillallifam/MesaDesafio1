@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test Mesa</string>
+    <string name="prefsName">AppPrefs</string>
+    <string name="facebook_app_id">2930842097242286</string>
+    <string name="fb_login_protocol_scheme">fb2930842097242286</string>
+</resources>

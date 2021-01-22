@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377439582575",
+    "project_id": "mesa1-1eafc",
+    "storage_bucket": "mesa1-1eafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377439582575:android:14e634209c1859365b109a",
+        "android_client_info": {
+          "package_name": "com.gillall.mesa.desafio1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377439582575-i0eu02cisnpo1delv0h9vg1vukfe2k1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmF8err2HRWsE9z3n5dhLQyTmwV31HNcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377439582575-i0eu02cisnpo1delv0h9vg1vukfe2k1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
